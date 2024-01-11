@@ -1,0 +1,10 @@
+mgmt_ip: 10.0.2.2
+vlans:
+ blue:
+  id:20		
+ green:
+  id:30
+ports:
+1: [10]
+2: [40]
+3: [10]
